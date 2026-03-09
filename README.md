@@ -25,17 +25,17 @@ A Java Swing + MySQL application for managing event registrations.
 
 ## Screenshots
 
-### Admin Login
+## Admin Login
 ![Admin Login](screenshots/admin_login.png)
 
-### Admin Dashboard
+## Admin Dashboard
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 
-### User Registration
+## User Registration
 ![User Registration](screenshots/user_registration.png)
 
-### Events List
-![Events](screenshots/event_list.png)
+## Events List
+![Events](screenshots/events.png)
 
 ## How to Run
 
